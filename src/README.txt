@@ -1,4 +1,4 @@
-Tools Visual Studio Code + GIT, pas d'utilisation de framework web
+Tools: Visual Studio Code + GIT, pas d'utilisation de framework web, browser Chrome & firefox
 
 Code valide: HTML testé avec https://validator.w3.org/ CSS testé avec https://jigsaw.w3.org/css-validator/validator
 

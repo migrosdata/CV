@@ -3,6 +3,14 @@ body {
     text-align: justify;
 }
 
-a{
+a {
     color: blue;
+}
+
+#skills {
+
+}
+
+h1 {
+    text-shadow: 11px 11px 11px #606060;
 }
